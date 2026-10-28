@@ -51,11 +51,17 @@ These findings describe associations and patterns in the dataset; they do not es
 
 ## Power BI Dashboard Screenshots
 
-The repository's `Images` folder contains screenshots of the three report pages:
+### 1. Executive Dashboard
 
-1. **Executive Dashboard** — overall yield KPIs and comparisons involving fertilizer, irrigation, region, and crop.
-2. **Environmental & Production Analysis** — yield patterns across rainfall, temperature, soil type, weather, crop, and harvest timing.
-3. **Key Insights & Recommendations** — principal findings, recommended actions, and analytical limitations.
+![Executive Dashboard](Images/01-Executive-Dashboard.png)
+
+### 2. Environmental & Production Analysis
+
+![Environmental & Production Analysis](Images/02-Environmental-Production-Analysis.png)
+
+### 3. Key Insights & Recommendations
+
+![Key Insights & Recommendations](Images/03-Insights-Recommendations.png)
 
 ## Recommendations
 
