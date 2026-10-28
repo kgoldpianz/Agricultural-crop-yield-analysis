@@ -53,15 +53,16 @@ These findings describe associations and patterns in the dataset; they do not es
 
 ### 1. Executive Dashboard
 
-![Executive Dashboard](Images/01-Executive-Dashboard.png)
+![Executive Dashboard](Images/Executive-dashboard.png%20%E2%80%94%20Page%201.png)
 
 ### 2. Environmental & Production Analysis
 
-![Environmental & Production Analysis](Images/02-Environmental-Production-Analysis.png)
+![Environmental & Production Analysis](Images/Environmental-analysis.png%20%E2%80%94%20Page%202.png)
 
 ### 3. Key Insights & Recommendations
 
-![Key Insights & Recommendations](Images/03-Insights-Recommendations.png)
+![Key Insights & Recommendations](Images/Insights-recommendations.png%20%E2%80%94%20Page%203.png)
+
 
 ## Recommendations
 
