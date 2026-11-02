@@ -92,4 +92,29 @@ These findings describe associations and patterns in the dataset; they do not es
 
 This project demonstrates how Excel and Power BI can be used to prepare agricultural data, explore factors associated with crop yield, and communicate analytical findings through clear visualizations. The results highlight rainfall as the strongest observed linear correlate of yield in this dataset, while also showing notable differences between records marked for fertilizer and irrigation use.
 
+---
+
+## Author & Project Information
+
+**Project:** Agricultural Crop Yield Analysis  
+**Project Type:** Data Analytics Capstone  
+**Tools:** Microsoft Excel, Microsoft Power BI, and GitHub
+
+This project was completed as part of my data analytics learning journey, demonstrating the application of data analysis techniques to agricultural crop-yield data.
+
+### Skills Demonstrated
+
+- Data cleaning and preparation
+- Exploratory Data Analysis (EDA)
+- Descriptive statistics and correlation analysis
+- Excel formulas and PivotTables
+- Power BI dashboard development
+- Data visualization and storytelling
+- Analytical interpretation and recommendation development
+- GitHub project documentation and portfolio management
+
+### Project Repository
+
+[View the complete Agricultural Crop Yield Analysis project on GitHub](https://github.com/kgoldpianz/Agricultural-crop-yield-analysis)
+
 The project provides a foundation for further agricultural analysis and evidence-informed investigation.
